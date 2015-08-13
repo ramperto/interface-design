@@ -1,0 +1,206 @@
+.head{
+	width: 1300px;
+	height: 100px;
+	background-color: white;
+	box-shadow: inset 0 0 5px #000000;
+}
+
+.head1{
+	height: 80px;
+	width: 400px;
+}
+
+.head2{
+	
+}
+
+.logo{
+	margin-left: 90px;
+	vertical-align: center;
+	height: 90px;
+	width: 400px;
+	float: left;
+	padding: 5px;
+}
+
+.about1{
+	margin-right: 0px;
+	margin-left: 340px;
+	float: left;
+	height: 40px;
+	width: 400px;
+	padding: 5px;
+}
+
+.about2{
+	margin-left: 185px;
+	margin-right: 0px;
+	float: left;
+	height: 40px;
+	width: 550px;
+	padding: 5px;
+}
+
+.font1{
+	font-style: arial;
+	
+}
+
+.button1{
+	background: linear-gradient(#4541a8, #06065c);
+	border-radius:6px;
+	display:inline-block;
+	color:#fffcff;
+	font-family:Georgia;
+	font-size:15px;
+	padding:10px 46px;
+	text-decoration:none;
+}
+
+.button1:active {
+	position:relative;
+	top:1px;
+}
+
+.button2{
+	background: linear-gradient(#a21604, #d13310);
+	border-radius:6px;
+	display:inline-block;
+	color:#fffcff;
+	font-family:Georgia;
+	font-size:15px;
+	padding:5px 15px;
+	text-decoration:none;
+}
+
+.button2:active{
+	position: rellative;
+	top: 1px;
+}
+
+.button3{
+	background: linear-gradient(#670102, #ad0908);
+	border-radius:6px;
+	display:inline-block;
+	color:#fffcff;
+	font-family:Georgia;
+	font-size:16px;
+	padding:10px 55px;
+	text-decoration:none;
+	box-shadow:   0px 0px 25px 2px rgba(247,239,247,1);
+}
+
+.button3:active {
+	position:relative;
+	top:1px;
+}
+
+.button4{
+	background: linear-gradient(#323232, #111111);
+	border-radius:6px;
+	display:inline-block;
+	color:#ebac28;
+	font-family:Georgia;
+	font-size:20px;
+	padding:15px 65px;
+	text-decoration:none;
+}
+
+.button4:active {
+	position:relative;
+	top:1px;
+}
+
+#register{
+	width: 1300px;
+	background-color: black;
+	height: 369px;
+	text-align: center;
+}
+
+.reg{
+	width: 251px;
+	height: 335px;
+	text-align: center;
+	background: linear-gradient(#ebac28, #7b5301);
+	padding: 1em;
+	float: left;
+}
+
+.space{
+	width: 135px;
+	background-color: #000;
+	float: left;
+}
+
+.dropdowns{
+	width: 235px;
+	height: 30px;
+}
+
+.tab{
+	margin: 50px;
+}
+
+.margin1{
+	background-image: url('images/main.png');
+	width: 712px;
+	height: 366px;
+	margin-left: 100px;
+	vertical-align: bottom;
+	box-shadow: inset 0 0 10px #000000;
+	float: left;
+}
+
+#body{
+	background-color: #1a1a1a;
+	width: 1300px;
+	height: 875px;
+}
+
+.spacex{
+	width: 150px;
+}
+
+.atas{
+	width: 1050px;
+	height: 20px;
+}
+
+.tengah{
+	width: 800px;
+	height: 400px;
+	background-color: #000000;
+}
+
+.bawah{
+	width: 1300px;
+	height: 400px;
+	vertical-align: bottom; 
+}
+
+.service{
+	height: 40px;
+}
+
+.inside{
+	width: 300px;
+	height: 300px;
+	background-color: #cccccc;
+	padding: 8px;
+}
+
+.spacet{
+	border-spacing: 20px;
+}
+
+#footer{
+	width: 1300px;
+	height: 200px;
+	background-color: black;
+}
+
+.foot{
+	margin-left: 350px;
+	color: white;
+}
